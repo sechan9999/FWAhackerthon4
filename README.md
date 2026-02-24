@@ -15,7 +15,7 @@ The FWA Detection System automatically analyzes insurance claims to identify **F
 
 ### 📊 Key Statistics (Sample Data)
 - **Total Claims Analyzed**: 5,000
-- **FWA Detected**: 20.57% (~$184K)
+- **FWA Detected**: 11.88% (~$184K)
 - **Accuracy Rate**: 85%+
 - **Detection Patterns**: 10 sophisticated algorithms
 
