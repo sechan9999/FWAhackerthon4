@@ -23,7 +23,7 @@ The FWA Detection System automatically analyzes insurance claims to identify **F
 
 ## 🎥 Live Demo
 
-### 🌐 Online Dashboard (Recommended!)  https://fraud-investigator.vercel.app/
+### 🌐 Online Dashboard (Recommended!) [ https://fraud-investigator.vercel.app/](https://fraud-detection-dashboard-tau.vercel.app/)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Dashboard-success?style=for-the-badge)](https://sechan9999.github.io/FWAdetection/)
 
 **[🚀 Click Here to View Interactive Dashboard](https://sechan9999.github.io/FWAdetection/)**
